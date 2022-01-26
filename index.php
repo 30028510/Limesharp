@@ -48,7 +48,6 @@ function nextGreater($num)
 }
 
 $num = "101";
-echo "Binary representation of next number = " .
-							nextGreater($num);
+echo "Binary representation of next number = " .nextGreater($num);
 
 ?>
